@@ -1,6 +1,6 @@
-# hackintoshDellInspirion3583
-
+# Hackintosh Dell Inspirion 3583
 Hackintosh Dell Inspirion 3583 I5 8 Geração
+
 ## Configuração
 - Dell Insprion 3583
 - plataforma: Notebook | Intel 8th
