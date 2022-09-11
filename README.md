@@ -4,7 +4,9 @@ Hackintosh Dell Inspirion 3583 I5 8 Geração
 ## Configuração
 - Dell Insprion 3583
 - plataforma: Notebook | Intel 8th
-- Processador: intel i7 8565U
+- Processador: intel i5 8265U
+- Memória: 8GB DDR4-2400
+- SSD: 480GB
 - Video: Intel uhd 620 integrada
 - Audio: ALC236
 - Wifi: Intel(R) Wireless-AC 9462
